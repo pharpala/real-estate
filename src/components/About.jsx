@@ -3,20 +3,20 @@ import Hardik from '../assets/hardik.png';
 
 const About = () => {
   return (
-    <section className="bg-gray-100 py-20 pl-[5%] pr-[5%]">
+    <section id='about' className="bg-gray-100 py-20 pl-[5%] pr-[5%]">
       <div className="max-w-7xl mx-auto px-6">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-10 items-center">
           {/* Text Section */}
           <div>
             <h2 className="text-3xl font-bold text-gray-800 mb-4 text-center">About Me</h2>
             <p className="text-gray-600 mb-4 text-center">
-              Hi, I'm Hardik Mishra, a dedicated real estate professional with over 10 years of experience in the industry. I specialize in connecting people with their dream properties, and I am passionate about helping clients find the perfect place to call home. My deep knowledge of the local market and commitment to customer satisfaction have earned me a reputation as a trusted real estate expert.
+              Hi, I'm Hardik Mishra, welcome to your premier destination for real estate in Tenerife, Canary Islands. As a licensed realtor and mortgage broker, I specialize in guiding clients through the dynamic Tenerife property market. With a Financial Advisor certification from the renowned Universidad Politécnica de Valencia and advanced expertise in digital marketing and e-commerce, I am uniquely positioned to help you buy, sell, or invest in Tenerife real estate.
             </p>
             <p className="text-gray-600 mb-4 text-center">
-              When I'm not working, I love traveling, photography, and spending quality time with my family. I believe that buying a home should be an exciting and stress-free experience, and I strive to make that a reality for all my clients.
+              My approach combines a deep understanding of local market trends with innovative digital strategies, ensuring that your property goals are not just met, but exceeded. Whether you're looking for a luxury villa, a vacation home, or an investment property, my dedication to personalized service and client satisfaction sets me apart in the industry.
             </p>
             <p className="text-gray-600 text-center">
-              Whether you're looking for a cozy cottage or a luxury villa, I'm here to guide you through every step of the process and ensure you find a place that feels just right.
+              Discover the difference that expertise, passion, and local market knowledge can make in your real estate journey. Let's connect today to turn your Tenerife property dreams into reality.
             </p>
           </div>
 
